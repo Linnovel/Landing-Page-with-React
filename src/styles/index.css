@@ -10,3 +10,15 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+
+.ml-auto {
+    margin-left: auto !important;
+    padding-right: 105px;
+  }
+
+.navbar-brand {
+    margin-right: auto !important;
+    padding-left: 105px;
+
+
+}
